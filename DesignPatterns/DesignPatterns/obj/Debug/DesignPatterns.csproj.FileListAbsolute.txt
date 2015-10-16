@@ -1,0 +1,5 @@
+D:\GuidLine\AllSamples\AllSamples\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.dll
+D:\GuidLine\AllSamples\AllSamples\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+D:\GuidLine\AllSamples\AllSamples\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.dll
+D:\GuidLine\AllSamples\AllSamples\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+D:\GuidLine\AllSamples\AllSamples\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache

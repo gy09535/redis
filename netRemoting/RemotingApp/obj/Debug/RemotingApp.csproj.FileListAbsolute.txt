@@ -1,0 +1,7 @@
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\RemotingApp\bin\Debug\RemotingApp.exe
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\RemotingApp\bin\Debug\RemotingApp.pdb
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\RemotingApp\bin\Debug\Services.dll
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\RemotingApp\bin\Debug\Services.pdb
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\RemotingApp\obj\Debug\RemotingApp.csprojResolveAssemblyReference.cache
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\RemotingApp\obj\Debug\RemotingApp.exe
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\RemotingApp\obj\Debug\RemotingApp.pdb

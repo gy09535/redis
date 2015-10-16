@@ -1,0 +1,16 @@
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\bin\WebApplication1.dll.config
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\bin\WebApplication1.dll
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\bin\WebApplication1.pdb
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\obj\Debug\AppWeb.csprojResolveAssemblyReference.cache
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\obj\Debug\WebApplication1.dll
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\bin\YunYing.MiniMvc.dll
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\bin\YunYing.MiniMvc.pdb
+D:\GuidLine\AllSamples\AllSamples\App\WebApplication1\bin\WebApplication1.dll.config
+D:\GuidLine\AllSamples\AllSamples\App\WebApplication1\bin\WebApplication1.dll
+D:\GuidLine\AllSamples\AllSamples\App\WebApplication1\bin\WebApplication1.pdb
+D:\GuidLine\AllSamples\AllSamples\App\WebApplication1\bin\YunYing.MiniMvc.dll
+D:\GuidLine\AllSamples\AllSamples\App\WebApplication1\bin\YunYing.MiniMvc.pdb
+D:\GuidLine\AllSamples\AllSamples\App\WebApplication1\obj\Debug\AppWeb.csprojResolveAssemblyReference.cache
+D:\GuidLine\AllSamples\AllSamples\App\WebApplication1\obj\Debug\WebApplication1.dll
+D:\GuidLine\AllSamples\AllSamples\App\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,10 @@
+D:\GuidLine\ConsoleApplication1\DataConvertDLL\bin\Debug\DataConvertDLL.dll
+D:\GuidLine\ConsoleApplication1\DataConvertDLL\bin\Debug\DataConvertDLL.pdb
+D:\GuidLine\ConsoleApplication1\DataConvertDLL\obj\Debug\DataConvertDLL.dll
+D:\GuidLine\ConsoleApplication1\DataConvertDLL\obj\Debug\DataConvertDLL.pdb
+D:\GuidLine\ConsoleApplication1\DataConvertDLL\obj\Debug\DataConvertDLL.csprojResolveAssemblyReference.cache
+D:\GuidLine\AllSamples\AllSamples\DataConvert\DataConvertDLL\bin\Debug\DataConvertDLL.dll
+D:\GuidLine\AllSamples\AllSamples\DataConvert\DataConvertDLL\bin\Debug\DataConvertDLL.pdb
+D:\GuidLine\AllSamples\AllSamples\DataConvert\DataConvertDLL\obj\Debug\DataConvertDLL.csprojResolveAssemblyReference.cache
+D:\GuidLine\AllSamples\AllSamples\DataConvert\DataConvertDLL\obj\Debug\DataConvertDLL.dll
+D:\GuidLine\AllSamples\AllSamples\DataConvert\DataConvertDLL\obj\Debug\DataConvertDLL.pdb

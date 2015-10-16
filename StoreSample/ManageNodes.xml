@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<node>
+  <node >
+    <node title="店铺管理" >
+      <node url="StoreMain/StoreMain" title="我的店铺"  description="我的店铺" />
+    </node>
+    <node title="商品管理">
+      <node url="CommodityManage/AddCommodity" title="新品上架"  description="新品上架" />
+      <node url="CommodityManage/MyCommodity" title="我的商品"  description="新品上架" />
+    </node>
+    <node title="交易管理" >
+      <node url="DealManage/OrderManage" title="订单管理"  description="订单管理" />
+      <node url="DealManage/AccountBalance" title="收入结算"  description="收入结算" />
+      <node url="DealManage/MessageManage" title="消息管理"  description="消息管理" />
+    </node>
+  </node>
+</node>

@@ -1,0 +1,17 @@
+D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.pdb
+D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\ServiceContract.dll
+D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\Services.dll
+D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\MessageContract.dll
+D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\DataContract.dll
+D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\ServiceContract.pdb
+D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\Services.pdb
+D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\MessageContract.pdb
+D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\DataContract.pdb
+D:\GuidLine\WCFWinServices\WCFWinServices\obj\Debug\WCFWinServices.csprojResolveAssemblyReference.cache
+D:\GuidLine\WCFWinServices\WCFWinServices\obj\Debug\WCFWinServices.ProjectInstaller.resources
+D:\GuidLine\WCFWinServices\WCFWinServices\obj\Debug\WCFWinServices.WcfServices.resources
+D:\GuidLine\WCFWinServices\WCFWinServices\obj\Debug\WCFWinServices.csproj.GenerateResource.Cache
+D:\GuidLine\WCFWinServices\WCFWinServices\obj\Debug\WCFWinServices.exe
+D:\GuidLine\WCFWinServices\WCFWinServices\obj\Debug\WCFWinServices.pdb
+D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe.config

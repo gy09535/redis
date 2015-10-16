@@ -1,0 +1,7 @@
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\ServerHost\bin\Debug\ServerHost.exe
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\ServerHost\bin\Debug\ServerHost.pdb
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\ServerHost\bin\Debug\ShareAssembly.dll
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\ServerHost\bin\Debug\ShareAssembly.pdb
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\ServerHost\obj\Debug\ServerHost.csprojResolveAssemblyReference.cache
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\ServerHost\obj\Debug\ServerHost.exe
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\ServerHost\obj\Debug\ServerHost.pdb

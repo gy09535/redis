@@ -1,0 +1,10 @@
+D:\GuidLine\WCFWinServices\DataContract\bin\Debug\DataContract.dll
+D:\GuidLine\WCFWinServices\DataContract\bin\Debug\DataContract.pdb
+D:\GuidLine\WCFWinServices\DataContract\obj\Debug\DataContract.dll
+D:\GuidLine\WCFWinServices\DataContract\obj\Debug\DataContract.pdb
+D:\GuidLine\WCFWinServices\DataContract\obj\Debug\DataContract.csprojResolveAssemblyReference.cache
+D:\GuidLine\AllSamples\AllSamples\WCF\DataContract\bin\Debug\DataContract.dll
+D:\GuidLine\AllSamples\AllSamples\WCF\DataContract\bin\Debug\DataContract.pdb
+D:\GuidLine\AllSamples\AllSamples\WCF\DataContract\obj\Debug\DataContract.csprojResolveAssemblyReference.cache
+D:\GuidLine\AllSamples\AllSamples\WCF\DataContract\obj\Debug\DataContract.dll
+D:\GuidLine\AllSamples\AllSamples\WCF\DataContract\obj\Debug\DataContract.pdb

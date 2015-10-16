@@ -1,0 +1,5 @@
+E:\MyApp\Network\Part3\ServerConsole\ServerConsole\bin\Debug\ServerConsole.exe
+E:\MyApp\Network\Part3\ServerConsole\ServerConsole\bin\Debug\ServerConsole.pdb
+E:\MyApp\Network\Part3\ServerConsole\ServerConsole\obj\Debug\ResolveAssemblyReference.cache
+E:\MyApp\Network\Part3\ServerConsole\ServerConsole\obj\Debug\ServerConsole.exe
+E:\MyApp\Network\Part3\ServerConsole\ServerConsole\obj\Debug\ServerConsole.pdb

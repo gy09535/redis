@@ -1,0 +1,12 @@
+D:\GuidLine\SocketCommunication\SocketCommunication\bin\Debug\SocketCommunication.exe
+D:\GuidLine\SocketCommunication\SocketCommunication\bin\Debug\SocketCommunication.pdb
+D:\GuidLine\SocketCommunication\SocketCommunication\obj\Debug\SocketCommunication.exe
+D:\GuidLine\SocketCommunication\SocketCommunication\obj\Debug\SocketCommunication.pdb
+D:\GuidLine\AllSamples\AllSamples\Socket\SocketCommunication\bin\Debug\SocketCommunication.exe
+D:\GuidLine\AllSamples\AllSamples\Socket\SocketCommunication\bin\Debug\SocketCommunication.pdb
+D:\GuidLine\AllSamples\AllSamples\Socket\SocketCommunication\obj\Debug\SocketCommunication.exe
+D:\GuidLine\AllSamples\AllSamples\Socket\SocketCommunication\obj\Debug\SocketCommunication.pdb
+E:\如何从零开始自定义一套MVC框架\AllSamples\AllSamples\Socket\SocketCommunication\bin\Debug\SocketCommunication.exe
+E:\如何从零开始自定义一套MVC框架\AllSamples\AllSamples\Socket\SocketCommunication\bin\Debug\SocketCommunication.pdb
+E:\如何从零开始自定义一套MVC框架\AllSamples\AllSamples\Socket\SocketCommunication\obj\Debug\SocketCommunication.exe
+E:\如何从零开始自定义一套MVC框架\AllSamples\AllSamples\Socket\SocketCommunication\obj\Debug\SocketCommunication.pdb

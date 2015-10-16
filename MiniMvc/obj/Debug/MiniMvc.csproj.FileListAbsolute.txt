@@ -1,0 +1,8 @@
+D:\GuidLine\MiniMvc2\MiniMvc\MiniMvc\bin\Debug\YunYing.MiniMvc.dll
+D:\GuidLine\MiniMvc2\MiniMvc\MiniMvc\bin\Debug\YunYing.MiniMvc.pdb
+D:\GuidLine\MiniMvc2\MiniMvc\MiniMvc\obj\Debug\YunYing.MiniMvc.dll
+D:\GuidLine\MiniMvc2\MiniMvc\MiniMvc\obj\Debug\YunYing.MiniMvc.pdb
+D:\GuidLine\AllSamples\AllSamples\MiniMvc\bin\Debug\YunYing.MiniMvc.dll
+D:\GuidLine\AllSamples\AllSamples\MiniMvc\bin\Debug\YunYing.MiniMvc.pdb
+D:\GuidLine\AllSamples\AllSamples\MiniMvc\obj\Debug\YunYing.MiniMvc.dll
+D:\GuidLine\AllSamples\AllSamples\MiniMvc\obj\Debug\YunYing.MiniMvc.pdb

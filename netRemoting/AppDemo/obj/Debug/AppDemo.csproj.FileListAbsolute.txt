@@ -1,0 +1,5 @@
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\AppDemo\bin\Debug\AppDemo.exe
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\AppDemo\bin\Debug\AppDemo.pdb
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\AppDemo\obj\Debug\AppDemo.csprojResolveAssemblyReference.cache
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\AppDemo\obj\Debug\AppDemo.exe
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\AppDemo\obj\Debug\AppDemo.pdb

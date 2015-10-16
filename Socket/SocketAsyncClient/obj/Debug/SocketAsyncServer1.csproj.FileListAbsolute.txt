@@ -1,0 +1,4 @@
+D:\GuidLine\AllSamples\AllSamples\Socket\SocketAsyncClient\bin\Debug\SocketAsyncClient.exe
+D:\GuidLine\AllSamples\AllSamples\Socket\SocketAsyncClient\bin\Debug\SocketAsyncClient.pdb
+D:\GuidLine\AllSamples\AllSamples\Socket\SocketAsyncClient\obj\Debug\SocketAsyncClient.exe
+D:\GuidLine\AllSamples\AllSamples\Socket\SocketAsyncClient\obj\Debug\SocketAsyncClient.pdb

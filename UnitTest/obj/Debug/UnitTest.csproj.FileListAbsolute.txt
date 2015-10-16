@@ -1,0 +1,11 @@
+D:\GuidLine\AllSamples\AllSamples\UnitTest\bin\Debug\UnitTest.dll
+D:\GuidLine\AllSamples\AllSamples\UnitTest\bin\Debug\UnitTest.pdb
+D:\GuidLine\AllSamples\AllSamples\UnitTest\bin\Debug\RedisSample.exe
+D:\GuidLine\AllSamples\AllSamples\UnitTest\bin\Debug\ServiceStack.Common.dll
+D:\GuidLine\AllSamples\AllSamples\UnitTest\bin\Debug\ServiceStack.Interfaces.dll
+D:\GuidLine\AllSamples\AllSamples\UnitTest\bin\Debug\ServiceStack.Redis.dll
+D:\GuidLine\AllSamples\AllSamples\UnitTest\bin\Debug\ServiceStack.Text.dll
+D:\GuidLine\AllSamples\AllSamples\UnitTest\bin\Debug\RedisSample.pdb
+D:\GuidLine\AllSamples\AllSamples\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\GuidLine\AllSamples\AllSamples\UnitTest\obj\Debug\UnitTest.dll
+D:\GuidLine\AllSamples\AllSamples\UnitTest\obj\Debug\UnitTest.pdb

@@ -1,0 +1,7 @@
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\ClientCall\bin\Debug\ClientCall.exe
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\ClientCall\bin\Debug\ClientCall.pdb
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\ClientCall\bin\Debug\Services.dll
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\ClientCall\bin\Debug\Services.pdb
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\ClientCall\obj\Debug\ClientCall.csprojResolveAssemblyReference.cache
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\ClientCall\obj\Debug\ClientCall.exe
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\ClientCall\obj\Debug\ClientCall.pdb

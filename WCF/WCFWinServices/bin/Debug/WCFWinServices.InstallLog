@@ -1,0 +1,210 @@
+﻿正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe 程序集中应该可以找到“Yes”特性。
+正在提交程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe 程序集中应该可以找到“Yes”特性。
+没有安装程序，因此移除 InstallState 文件。
+正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe 程序集中应该可以找到“Yes”特性。
+正在提交程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+没有 RunInstallerAttribute.Yes 的公共安装程序。在 D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe 程序集中应该可以找到“Yes”特性。
+没有安装程序，因此移除 InstallState 文件。
+正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在回滚程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+在 System.ServiceProcess.ServiceProcessInstaller 安装程序的“回滚”阶段发生异常。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+在安装的“回滚”阶段发生异常。将忽略该异常并继续回滚。但是，在完成回滚后计算机可能无法完全还原到它的初始状态。
+正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在回滚程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+在 System.ServiceProcess.ServiceProcessInstaller 安装程序的“回滚”阶段发生异常。
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+在安装的“回滚”阶段发生异常。将忽略该异常并继续回滚。但是，在完成回滚后计算机可能无法完全还原到它的初始状态。
+正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在回滚程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在回滚程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在回滚程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在安装服务 WcfServices...
+已成功安装服务 WcfServices。
+正在日志 Application 中创建 EventLog 源 WcfServices...
+正在提交程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在安装服务 WcfServices...
+正在日志 Application 中创建 EventLog 源 WcfServices...
+正在回滚程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在将事件日志还原到源 WcfServices 的前一状态。
+正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在安装服务 WcfServices...
+正在日志 Application 中创建 EventLog 源 WcfServices...
+正在回滚程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在将事件日志还原到源 WcfServices 的前一状态。
+正在卸载程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在移除 EventLog 源 WcfServices。
+正在从系统中移除服务 WcfServices...
+已成功地从系统中移除服务 WcfServices。
+正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在安装服务 WcfServices...
+已成功安装服务 WcfServices。
+正在日志 Application 中创建 EventLog 源 WcfServices...
+正在提交程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在安装服务 WcfServices...
+正在日志 Application 中创建 EventLog 源 WcfServices...
+正在回滚程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在将事件日志还原到源 WcfServices 的前一状态。
+正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在安装服务 WcfServices...
+正在日志 Application 中创建 EventLog 源 WcfServices...
+正在回滚程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在将事件日志还原到源 WcfServices 的前一状态。
+正在卸载程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在移除 EventLog 源 WcfServices。
+正在从系统中移除服务 WcfServices...
+已成功地从系统中移除服务 WcfServices。
+正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在安装服务 WcfServices...
+已成功安装服务 WcfServices。
+正在日志 Application 中创建 EventLog 源 WcfServices...
+正在提交程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在卸载程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在移除 EventLog 源 WcfServices。
+正在从系统中移除服务 WcfServices...
+已成功地从系统中移除服务 WcfServices。
+正在安装程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe
+正在安装服务 WcfServices...
+已成功安装服务 WcfServices。
+正在日志 Application 中创建 EventLog 源 WcfServices...
+正在提交程序集“D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.InstallLog
+   assemblypath = D:\GuidLine\WCFWinServices\WCFWinServices\bin\Debug\WCFWinServices.exe

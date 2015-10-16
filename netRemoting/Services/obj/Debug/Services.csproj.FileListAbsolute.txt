@@ -1,0 +1,4 @@
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\Services\bin\Debug\Services.dll
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\Services\bin\Debug\Services.pdb
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\Services\obj\Debug\Services.dll
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\Services\obj\Debug\Services.pdb

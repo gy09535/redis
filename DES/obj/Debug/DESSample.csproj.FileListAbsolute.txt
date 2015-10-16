@@ -1,0 +1,10 @@
+D:\GuidLine\WCFWinServices\DESSample\bin\Debug\DESSample.exe
+D:\GuidLine\WCFWinServices\DESSample\bin\Debug\DESSample.pdb
+D:\GuidLine\WCFWinServices\DESSample\obj\Debug\DESSample.csprojResolveAssemblyReference.cache
+D:\GuidLine\WCFWinServices\DESSample\obj\Debug\DESSample.exe
+D:\GuidLine\WCFWinServices\DESSample\obj\Debug\DESSample.pdb
+D:\GuidLine\AllSamples\AllSamples\DES\bin\Debug\DESSample.exe
+D:\GuidLine\AllSamples\AllSamples\DES\bin\Debug\DESSample.pdb
+D:\GuidLine\AllSamples\AllSamples\DES\obj\Debug\DESSample.exe
+D:\GuidLine\AllSamples\AllSamples\DES\obj\Debug\DESSample.pdb
+D:\GuidLine\AllSamples\AllSamples\DES\obj\Debug\DESSample.csprojResolveAssemblyReference.cache

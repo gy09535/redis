@@ -1,0 +1,8 @@
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\bin\WebApplication1.dll.config
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\bin\WebApplication1.dll
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\bin\WebApplication1.pdb
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\bin\Artech.MiniMvc.dll
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\bin\Artech.MiniMvc.pdb
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\obj\Debug\App.csprojResolveAssemblyReference.cache
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\obj\Debug\WebApplication1.dll
+D:\GuidLine\MiniMvc2\MiniMvc\App\WebApplication1\obj\Debug\WebApplication1.pdb

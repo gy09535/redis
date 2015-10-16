@@ -1,0 +1,17 @@
+C:\Users\chenxiang.FEINNO\Desktop\MSMQSrc\Msmq.PerfermanceTest\Msmq.PerfermanceTest\bin\Debug\Msmq.PerfermanceTest.exe
+C:\Users\chenxiang.FEINNO\Desktop\MSMQSrc\Msmq.PerfermanceTest\Msmq.PerfermanceTest\bin\Debug\Msmq.PerfermanceTest.pdb
+C:\Users\chenxiang.FEINNO\Desktop\MSMQSrc\Msmq.PerfermanceTest\Msmq.PerfermanceTest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\chenxiang.FEINNO\Desktop\MSMQSrc\Msmq.PerfermanceTest\Msmq.PerfermanceTest\obj\Debug\Msmq.PerfermanceTest.Form1.resources
+C:\Users\chenxiang.FEINNO\Desktop\MSMQSrc\Msmq.PerfermanceTest\Msmq.PerfermanceTest\obj\Debug\Msmq.PerfermanceTest.Properties.Resources.resources
+C:\Users\chenxiang.FEINNO\Desktop\MSMQSrc\Msmq.PerfermanceTest\Msmq.PerfermanceTest\obj\Debug\Msmq.PerfermanceTest.csproj.GenerateResource.Cache
+C:\Users\chenxiang.FEINNO\Desktop\MSMQSrc\Msmq.PerfermanceTest\Msmq.PerfermanceTest\obj\Debug\Msmq.PerfermanceTest.exe
+C:\Users\chenxiang.FEINNO\Desktop\MSMQSrc\Msmq.PerfermanceTest\Msmq.PerfermanceTest\obj\Debug\Msmq.PerfermanceTest.pdb
+C:\Users\chenxiang.FEINNO\Desktop\MSMQSrc\Msmq.PerfermanceTest\Msmq.PerfermanceTest\bin\Debug\Msmq.PerfermanceTest.exe.config
+E:\MsMq\Msmq.PerfermanceTest\Msmq.PerfermanceTest\Msmq.PerfermanceTest\bin\Debug\Msmq.PerfermanceTest.exe.config
+E:\MsMq\Msmq.PerfermanceTest\Msmq.PerfermanceTest\Msmq.PerfermanceTest\bin\Debug\Msmq.PerfermanceTest.exe
+E:\MsMq\Msmq.PerfermanceTest\Msmq.PerfermanceTest\Msmq.PerfermanceTest\bin\Debug\Msmq.PerfermanceTest.pdb
+E:\MsMq\Msmq.PerfermanceTest\Msmq.PerfermanceTest\Msmq.PerfermanceTest\obj\Debug\Msmq.PerfermanceTest.Form1.resources
+E:\MsMq\Msmq.PerfermanceTest\Msmq.PerfermanceTest\Msmq.PerfermanceTest\obj\Debug\Msmq.PerfermanceTest.Properties.Resources.resources
+E:\MsMq\Msmq.PerfermanceTest\Msmq.PerfermanceTest\Msmq.PerfermanceTest\obj\Debug\Msmq.PerfermanceTest.csproj.GenerateResource.Cache
+E:\MsMq\Msmq.PerfermanceTest\Msmq.PerfermanceTest\Msmq.PerfermanceTest\obj\Debug\Msmq.PerfermanceTest.exe
+E:\MsMq\Msmq.PerfermanceTest\Msmq.PerfermanceTest\Msmq.PerfermanceTest\obj\Debug\Msmq.PerfermanceTest.pdb

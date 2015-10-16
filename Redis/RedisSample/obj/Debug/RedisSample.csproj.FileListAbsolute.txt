@@ -1,0 +1,13 @@
+D:\GuidLine\AllSamples\AllSamples\Redis\RedisSample\bin\Debug\RedisSample.exe
+D:\GuidLine\AllSamples\AllSamples\Redis\RedisSample\bin\Debug\RedisSample.pdb
+D:\GuidLine\AllSamples\AllSamples\Redis\RedisSample\bin\Debug\ServiceStack.Common.dll
+D:\GuidLine\AllSamples\AllSamples\Redis\RedisSample\bin\Debug\ServiceStack.Interfaces.dll
+D:\GuidLine\AllSamples\AllSamples\Redis\RedisSample\bin\Debug\ServiceStack.Redis.dll
+D:\GuidLine\AllSamples\AllSamples\Redis\RedisSample\bin\Debug\ServiceStack.Text.dll
+D:\GuidLine\AllSamples\AllSamples\Redis\RedisSample\obj\Debug\RedisSample.exe
+D:\GuidLine\AllSamples\AllSamples\Redis\RedisSample\obj\Debug\RedisSample.pdb
+D:\GuidLine\AllSamples\AllSamples\Redis\RedisSample\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+D:\GuidLine\AllSamples\AllSamples\Redis\RedisSample\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+D:\GuidLine\AllSamples\AllSamples\Redis\RedisSample\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+D:\GuidLine\AllSamples\AllSamples\Redis\RedisSample\bin\Debug\UiaComWrapper.dll
+D:\GuidLine\AllSamples\AllSamples\Redis\RedisSample\obj\Debug\RedisSample.csprojResolveAssemblyReference.cache

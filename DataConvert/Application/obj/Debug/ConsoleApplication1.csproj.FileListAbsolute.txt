@@ -1,0 +1,7 @@
+D:\GuidLine\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\GuidLine\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\GuidLine\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\GuidLine\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\GuidLine\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\GuidLine\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataConvertDLL.dll
+D:\GuidLine\ConsoleApplication1\ConsoleApplication1\bin\Debug\DataConvertDLL.pdb

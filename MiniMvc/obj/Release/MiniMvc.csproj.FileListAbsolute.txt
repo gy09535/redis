@@ -1,0 +1,4 @@
+D:\GuidLine\MiniMvc2\MiniMvc\MiniMvc\bin\Release\Artech.MiniMvc.dll
+D:\GuidLine\MiniMvc2\MiniMvc\MiniMvc\bin\Release\Artech.MiniMvc.pdb
+D:\GuidLine\MiniMvc2\MiniMvc\MiniMvc\obj\Release\Artech.MiniMvc.dll
+D:\GuidLine\MiniMvc2\MiniMvc\MiniMvc\obj\Release\Artech.MiniMvc.pdb

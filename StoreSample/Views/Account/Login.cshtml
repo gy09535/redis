@@ -1,0 +1,19 @@
+﻿@model dynamic
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+    @Html.AntiForgeryToken()
+    <div>
+        @ViewBag.Nodes
+    </div>
+</body>
+</html>

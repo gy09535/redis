@@ -1,0 +1,7 @@
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\Client\bin\Debug\Client.exe
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\Client\bin\Debug\Client.pdb
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\Client\bin\Debug\ShareAssembly.dll
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\Client\bin\Debug\ShareAssembly.pdb
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\Client\obj\Debug\ClientCall.csprojResolveAssemblyReference.cache
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\Client\obj\Debug\Client.exe
+d:\我的配置\my documents\visual studio 2013\Projects\AppDemo\Client\obj\Debug\Client.pdb

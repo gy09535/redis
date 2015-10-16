@@ -1,0 +1,10 @@
+D:\GuidLine\WCFWinServices\MessageContract\bin\Debug\MessageContract.dll
+D:\GuidLine\WCFWinServices\MessageContract\bin\Debug\MessageContract.pdb
+D:\GuidLine\WCFWinServices\MessageContract\obj\Debug\MessageContract.dll
+D:\GuidLine\WCFWinServices\MessageContract\obj\Debug\MessageContract.pdb
+D:\GuidLine\WCFWinServices\MessageContract\obj\Debug\MessageContract.csprojResolveAssemblyReference.cache
+D:\GuidLine\AllSamples\AllSamples\WCF\MessageContract\bin\Debug\MessageContract.dll
+D:\GuidLine\AllSamples\AllSamples\WCF\MessageContract\bin\Debug\MessageContract.pdb
+D:\GuidLine\AllSamples\AllSamples\WCF\MessageContract\obj\Debug\MessageContract.csprojResolveAssemblyReference.cache
+D:\GuidLine\AllSamples\AllSamples\WCF\MessageContract\obj\Debug\MessageContract.dll
+D:\GuidLine\AllSamples\AllSamples\WCF\MessageContract\obj\Debug\MessageContract.pdb
